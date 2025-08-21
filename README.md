@@ -243,11 +243,11 @@ Less than 1% of the training data is anomalous to mimic real-world scenarios. Th
 If you use HuVAD in your research, please cite our paper:
 
 ```
-@article{noghre2024pheva,
-  title={PHEVA: A Privacy-preserving Human-centric Video Anomaly Detection Dataset},
-  author={Ghazal Alinezhad Noghre and Shanle Yao and Armin Danesh Pazho and Babak Rahimi Ardabili and Vinit Katariya and Hamed Tabkhi},
-  journal={Arxiv},
-  year={2024},
+@article{pazho2024towards,
+  title={Towards Adaptive Human-centric Video Anomaly Detection: A Comprehensive Framework and A New Benchmark},
+  author={Pazho, Armin Danesh and Yao, Shanle and Noghre, Ghazal Alinezhad and Ardabili, Babak Rahimi and Katariya, Vinit and Tabkhi, Hamed},
+  journal={arXiv preprint arXiv:2408.14329},
+  year={2024}
 }
 ```
 
